@@ -10,8 +10,8 @@
 </script>
 <style lang="scss">
   @tailwind base;
-  h1 {
-    @apply text-6xl;
-    @apply text-red-800;
+
+  body {
+    @apply bg-green-900;
   }
 </style>
